@@ -42,3 +42,6 @@ logs/
 *.log
 *.out
 *.pid
+
+# Dependencies
+/node_modules
